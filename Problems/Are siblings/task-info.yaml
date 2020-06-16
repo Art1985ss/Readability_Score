@@ -1,0 +1,9 @@
+type: code
+custom_name: Are siblings?
+files:
+- name: src/ReadFile.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8095
+status: Solved
+record: -1
